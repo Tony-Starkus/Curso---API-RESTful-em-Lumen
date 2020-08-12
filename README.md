@@ -1,5 +1,7 @@
 # Curso---API-RESTful-em-Lumen
 
+##### [Link do curso](https://www.youtube.com/watch?v=8YClxJFJc20&list=PLY2lGxn1rrtEgqgsYvJCkTpUG6KNEI19x)
+
 ## Endpoints
 | URL  | Method |
 | ------------- | ------------- |
