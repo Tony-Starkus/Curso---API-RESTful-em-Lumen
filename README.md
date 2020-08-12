@@ -1,7 +1,6 @@
 # Curso---API-RESTful-em-Lumen
 
 ## Endpoints
-
 | URL  | Method |
 | ------------- | ------------- |
 | http://localhost:8000/api/cars  | GET  |
