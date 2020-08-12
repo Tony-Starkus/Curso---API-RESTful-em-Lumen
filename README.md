@@ -8,6 +8,7 @@
 | ------------- | ------------- |
 | $ composer create-project --prefer-dist laravel/lumen nome-do-projeto | Criar projeto Lumen (no diretório atual)  |
 | $ php -S localhost:8000 -t public  | Iniciar servidor  |
+| $ composer update  | Atualizar pacotes |
 
 
 ### Endpoints
