@@ -1,0 +1,7 @@
+1. É importante tem o "composer" instalado.
+
+2. Instalar o Lumen no diretório atual:
+    $ composer create-project --prefer-dist laravel/lumen <nome-do-projeto>
+
+3. Iniciar servidor:
+    $ php -S localhost:8000 -t public
